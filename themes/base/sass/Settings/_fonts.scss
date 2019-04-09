@@ -11,7 +11,7 @@ $font-base: Arial, sans-serif;
     ICONS FONT
 */
 @font-face {
-    font-family: "Snipcart";
+    font-family: "Georgia";
     src: url('fonts/snipcart/Snipcart.woff?94043836') format("woff"),
          url('fonts/snipcart/Snipcart.ttf?94043836') format("truetype");
     font-weight: normal;
@@ -39,7 +39,7 @@ $fontsize: (
         small: 12px
     ),
     button: (
-        base: 12px
+        base: 14px
     ),
     error: (
         base: 14px
